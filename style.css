@@ -213,7 +213,7 @@ body .news-page .stories .story .column .story-title .title-text.text--vertical 
 }
 body .news-page .stories .story .column .story-title .title-text.text--normal {
   letter-spacing: -5px;
-  font-size: 4.75rem;
+  font-size: 4.0rem;
 }
 body .news-page .stories .story .column .paragraph {
   font-size: 0.9rem;
@@ -436,6 +436,8 @@ body .news-page .stories .story--secondary .story-content--third img {
   border-radius: 100%;
   float: left;
   margin-right: 20px;
+  width: 220px;
+  height: 220px;
 }
 body .news-page_section.weather {
   margin-top: 1rem;
